@@ -1,9 +1,7 @@
 # C Programming Problems
 
 Problems I solved during my Computer Science studies at **ESPRIT (Tunisia)** and **TU Braunschweig (Germany)**.
-They cover the fundamentals: structs, pointers, dynamic memory, strings, arrays, sorting/searching and data structures.
-
-## C
+They cover: structs, pointers, dynamic memory, strings, arrays, sorting/searching and data structures.
 
 | Problem | Description | Concepts |
 |---|---|---|
@@ -27,7 +25,6 @@ They cover the fundamentals: structs, pointers, dynamic memory, strings, arrays,
 
 ## How to run
 
-**C**
 ```bash
 gcc *.c -o program
 ./program
